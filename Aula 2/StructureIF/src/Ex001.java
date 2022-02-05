@@ -23,11 +23,11 @@ public class Ex001 {
 		Integer b = 25;
 		
 		//if(a==b) {
-			//System.out.println("Equal");	
+			//System.out.println("Both numbers are equal");	
 		//}else if (a > b) {
-			//System.out.println("Higher");
+			//System.out.println("First number is higher than the second");
 		//}else if (a < b) {
-			//System.out.println("Menor");
+			//System.out.println("The second number is higher than the first");
 		//}
 		
 		
